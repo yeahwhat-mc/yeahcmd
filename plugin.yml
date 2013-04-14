@@ -1,0 +1,23 @@
+name: yeahCMD
+main: mn.frd.yeahCMD.cmd
+version: 1.1
+website: http://frd.mn
+author: frdmn
+description: >
+            frdmn's Server-Plugin
+commands: 
+  shop:
+    description: yeahCMD warp to our Market Place
+    usage: /<command>
+  h1:
+    description: yeahCMD alias for //hpos1
+    usage: /<command>
+  h2:
+    description: yeahCMD alias for //hpos2
+    usage: /<command>
+  p1:
+    description: yeahCMD alias for //pos1
+    usage: /<command>
+  p2:
+    description: yeahCMD alias for //pos2
+    usage: /<command>
